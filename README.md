@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=햄스터%20로봇%20코딩&fontSize=45&animation=fadeIn&fontAlignY=38&desc=FrontEnd16&descAlignY=55&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=햄스터%20로봇%20코딩&fontSize=45&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=85)
 
 
-<img src="https://raw.githubusercontent.com/yonghun16/coding_school_adventure_of_hamzzi/main/preview.jpg" width=800px />
+<img src="https://github.com/song-coding-school/2023-0201003_dasol/blob/main/img/certificate/certificate.png?raw=true" width=800px />
 	
 <ul>
 	<li>
