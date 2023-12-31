@@ -5,7 +5,7 @@
 	
 <ul>
 	<li>
-		<a href="https://yonghun16.github.io/coding_school_adventure_of_hamzzi/">보러가기</a>
+		<a href="https://song-coding-school.github.io/2023-0201003_dasol/">보러가기</a>
 	</li>
 	<li>
 		Single-page, 반응형
